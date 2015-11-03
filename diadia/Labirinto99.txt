@@ -1,0 +1,5 @@
+Stanze: corrente, sud, nord, uscita
+Entrata: corrente
+Uscita: uscita
+Attrezzi: primo 1 nord, secondo 2 nord, primo 3 corrente
+Adiacenti: corrente sud sud, corrente nord nord, sud nord corrente, nord sud corrente

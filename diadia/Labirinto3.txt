@@ -1,0 +1,6 @@
+Stanze: Biblioteca Bloccata sud, Mensa Buia, Cortile, DS3 Magica, Laboratorio, Atrio, N11, N10, N1, Sotterraneo2, Sotterraneo
+Entrata: Atrio
+Uscita: Biblioteca
+Attrezzi: osso 2 Atrio, lanterna 2 N10, chiave 2 N1
+Adiacenti: Biblioteca sud Mensa, Mensa nord Biblioteca, DS3 est Mensa, Mensa ovest DS3, Cortile ovest Mensa, Mensa est Cortile, Laboratorio est Atrio, Atrio nord Mensa, Mensa sud Atrio, Laboratorio ovest N11, Atrio est N11, Atrio ovest Laboratorio, N11 ovest Atrio, N11 est Laboratorio, N10 est N11, N10 nord Atrio, Atrio sud N10, N10 ovest Laboratorio, N1 nord N10, N10 sud N1, Sotterraneo sopra N1, N1 sotto Sotterraneo, Sotterraneo2 est Sotterraneo, Sotterraneo ovest Sotterraneo2
+Personaggi: Cane Pluto osso piedediporco 3 Cortile, Mago Merlino bacchetta 1 Sotterraneo2, Strega Morgana DS3

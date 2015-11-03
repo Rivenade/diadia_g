@@ -1,0 +1,20 @@
+menù a tendina col click destro o menù comandi stile monkey island?
+GameState.renderInterface(): invece di inizializzare ogni frame una lista nuova, trovare modo di aggiornare la lista quando viene cambiata (facile)
+
+le porte: aperte/chiuse (locked) basta lavorare sul render
+
+barra della vita (?)
+
+personaggi(FATTO), rendering characters, stanze speciali
+
+perché non carica i labirinti dalla cartella res?
+
+sblocco telecamera
+
+menù
+
+
+
+PIù AVANTI:
+esami facoltativi = boss segreti
+professore con cui dare la laurea = affrontare di nuovo un boss sconfitto, potenziato, per ottenere bonus diversi

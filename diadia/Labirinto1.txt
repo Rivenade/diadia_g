@@ -1,0 +1,5 @@
+Stanze: Entrata, Corridoio, Uscita
+Entrata: Entrata
+Uscita: Uscita
+Attrezzi:
+Adiacenti: Entrata nord Corridoio, Corridoio sud Entrata, Corriodio nord Uscita, Uscita sud Corridoio
